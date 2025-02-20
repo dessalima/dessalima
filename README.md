@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="#" >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Andressa+de+Lima;Seja+muito+bem-vindo+%3A)!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Andressa+de+Lima;Seja+muito+bem-vindo(a)+%3A)!" alt="Typing Animation" />
   </a>
 </h1>
 
