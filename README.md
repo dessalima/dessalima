@@ -49,5 +49,15 @@
 
 ---
 
+# Meus Projetos Principais
+
+## 🖤 Projetos em Destaque
+
+### 1. **[Projeto 1 - Pokédex](https://github.com/dessalima/ProjetoA3--Pok-dex.git)**
+   - **Descrição**: Projeto feito para a cadeira de Usabilidade, desenvolvimento web, mobile e jogos do curso de Ciência da Computação com o objetivo de ser uma avaliação final da mesma.
+   - **Tecnologias**: `HTML`, `CSS`, `JavaScript`
+   - **Status**: 🚀 Concluído
+   - **Link**: [Acessar o Projeto](https://github.com/dessalima/ProjetoA3--Pok-dex.git)
+
 <h3 align="center">Feito com ❤️ por Andressa</h3>
 
