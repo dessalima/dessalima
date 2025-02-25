@@ -53,11 +53,43 @@
 
 ## 🖤 Projetos em Destaque
 
-### 1. **[Projeto 1 - Pokédex](https://github.com/dessalima/ProjetoA3--Pok-dex.git)**
-   - **Descrição**: Projeto feito para a cadeira de Usabilidade, desenvolvimento web, mobile e jogos do curso de Ciência da Computação com o objetivo de ser uma avaliação final da mesma.
-   - **Tecnologias**: `HTML`, `CSS`, `JavaScript`
-   - **Status**: 🚀 Concluído
-   - **Link**: [Acessar o Projeto](https://github.com/dessalima/ProjetoA3--Pok-dex.git)
+### 1. **[Projeto 1 - pokédex](https://github.com/dessalima/ProjetoA3--Pok-dex.git)**
+   - **Descrição**: projeto feito para a faculdade.
+   - **Tecnologias**: 
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   - **Status**: 🚀 concluído
+   - **Link**: [Pokédex](https://github.com/dessalima/ProjetoA3--Pok-dex.git)
+
+### 2. **[Projeto 2 - calculadora científica](https://github.com/dessalima/calculadora-cient-fica.git)**
+   - **Descrição**: apenas por diversão :)
+   - **Tecnologias**: 
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   - **Status**: 🚀 concluído
+   - **Link**: [calculadora científica](https://github.com/dessalima/calculadora-cient-fica.git)
+
+### 3. **[Projeto 3 - relógio digital](https://github.com/dessalima/Rel-gio-Digital.git)**
+   - **Descrição**: apenas por diversão :)
+   - **Tecnologias**: 
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   - **Status**: 🚀 concluído
+   - **Link**: [relógio digital](https://github.com/dessalima/Rel-gio-Digital.git)
+
+### 4. **[Projeto 4 - calculadora black](https://github.com/dessalima/calculadora-black.git)**
+   - **Descrição**: apenas por diversão :)
+   - **Tecnologias**: 
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   - **Status**: 🚀 concluído
+   - **Link**: [calculadora black](https://github.com/dessalima/calculadora-black.git)
+
+---
 
 <h3 align="center">Feito com ❤️ por Andressa</h3>
 
